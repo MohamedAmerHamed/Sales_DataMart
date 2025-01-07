@@ -36,3 +36,4 @@ In a Star Schema:
 Fact Table: Stores metrics (e.g., sales quantity, sales revenue).
 Dimension Tables: Contain descriptive data (e.g., customer, time, product).
 In a Snowflake Schema: Dimension tables are normalized into multiple related tables (e.g., splitting customer details into address, demographic information).
+Source: https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2012.bak
